@@ -280,5 +280,13 @@
       "status": 0
     }
   ],
-  "votes": []
+  "votes": [
+    {
+      "id": "6f1f5731-88a4-40f9-a16b-99aeb849773f",
+      "pollId": "849a4732-c7be-4a1b-be35-09e95ba996a5",
+      "userId": "brad.jordan.biz@gmail.com",
+      "optionId": "b981fb0d-fd53-48d9-a287-4bef54395945",
+      "date": 1707758709190
+    }
+  ]
 }
